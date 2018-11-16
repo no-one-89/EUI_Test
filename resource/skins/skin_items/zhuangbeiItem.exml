@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="zhuangbeiItem" width="87" height="130" xmlns:e="http://ns.egret.com/eui">
+	<e:Image source="skillItemFrame_png" top="0" left="0" right="0"/>
+	<e:Label text="{data.name}" width="87" x="0" bottom="7" textAlign="center" size="20" fontFamily="Microsoft YaHei" textColor="0xe2651d"/>
+	<e:Image width="64" height="65" x="12" y="11" anchorOffsetX="0" anchorOffsetY="0" source="{data.image}"/>
+</e:Skin>

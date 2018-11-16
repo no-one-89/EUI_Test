@@ -1,0 +1,48 @@
+{
+    "global": {
+        "globalAdsorbEnable": false,
+        "globalAutoLayerMarkEnable": true,
+        "globalRulerEnable": true
+    },
+    "1670c15479a": {
+        "path": "MainScene.ts",
+        "class": "MainScene",
+        "parentPath": ""
+    },
+    "1670c449759": {
+        "guideLines": [
+            {
+                "type": "v",
+                "pos": -221.212
+            },
+            {
+                "type": "h",
+                "pos": 459.091
+            },
+            {
+                "type": "h",
+                "pos": 584.848
+            },
+            {
+                "type": "h",
+                "pos": -31.818
+            }
+        ],
+        "guideLinesEnabled": false
+    },
+    "16710046e58": {
+        "path": "game\\HeroScene.ts",
+        "class": "HeroScene",
+        "parentPath": ""
+    },
+    "167102ebfbd": {
+        "path": "GoodScene.ts",
+        "class": "GoodScene",
+        "parentPath": ""
+    },
+    "167102f0f36": {
+        "path": "game\\AboutScene.ts",
+        "class": "AboutScene",
+        "parentPath": ""
+    }
+}
